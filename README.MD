@@ -22,7 +22,7 @@ Thanks to Mats Pfeiffer for his contribution. Original repo can be found [here:]
 adb tcpip 5555
 ```
 
-2. In your docker container connect to device:
+2. In the terminal from your dev container connect to device:
 
 ```shell
 adb connect host.docker.internal:5555
