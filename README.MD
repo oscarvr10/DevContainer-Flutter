@@ -10,7 +10,7 @@ Thanks to Mats Pfeiffer for his contribution. Original repo can be found [here:]
 
 1. Install [Docker](https://www.docker.com/get-started/) in your machine.
 2. Install [Visual Studio Code](https://code.visualstudio.com/).
-3. Install [Dev Containers Extension](https://code.visualstudio.com/) in Visual Studio Code.
+3. Install [Dev Containers Extension](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) in Visual Studio Code.
 4. Open this project in Visual Studio Code, then select 'Open in Dev Container' option.
 5. Enjoy!.
 
