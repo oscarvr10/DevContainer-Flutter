@@ -1,0 +1,14 @@
+{
+  "name": "Flutter",
+  "image": "matspfeiffer/flutter",
+  "extensions": [
+	"dart-code.flutter",
+	"circlecodesolution.ccs-flutter-color",
+	"Dart-Code.flutter",
+	"alexisvt.flutter-snippets",
+	"MarufHassan.flutter-snippets",
+	"jeroen-meijer.pubspec-assist",
+	"esbenp.prettier-vscode",
+	"FelixAngelov.bloc"
+]
+}
